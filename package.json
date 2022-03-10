@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-threejs",
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "3.0.2",
+    "gsap": "3.5.1",
+    "lodash-es": "4.17.15",
+    "nuxt": "latest",
+    "three": "0.120.1",
+    "touch-position": "2.0.0"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "keywords": [],
+  "description": ""
+}
